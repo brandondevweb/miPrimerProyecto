@@ -1,0 +1,7 @@
+Conocimientos Previos 
+
+1.  Nivel básico de HTML y CSS 
+
+2. Nivel básico de JavaScript
+
+3. Nivel básico de Desarrollo Web 
