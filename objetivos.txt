@@ -1,3 +1,5 @@
 Objetivos Máster FullStack 
 
 1 Dominar JavaScript.
+
+2. Dominar Angular.
