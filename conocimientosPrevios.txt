@@ -4,3 +4,4 @@ Conocimientos Previos
 
 2. Nivel básico de JavaScript
 
+3. Nivel básico de Desarrollo Web 
